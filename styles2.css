@@ -16,7 +16,7 @@ html {
   h1, h2 {
     text-transform: uppercase;
   }
-  
+
   /* Add padding to all of the .container child elements */
   .container > * {
     padding: 20px;
