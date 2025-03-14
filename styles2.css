@@ -100,16 +100,18 @@ html {
 }
 
 .box > * {
+    margin: 0 20px;
     border: 2px hidden rgb(96 139 168);
     border-radius: 5px;
     background-color: hidden rgb(96 139 168 / 0.2);
-    margin: 0 20px;
+    
   }
   
   .box {
+    margin: 0 20px;
     border: 2px hidden rgb(96 139 168);
     display: flex;
-    margin: 0 20px;
+    
   }
   
   body {
